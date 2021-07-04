@@ -1,1 +1,2 @@
-name.info=prod
+config:
+ info: prod
